@@ -19,7 +19,7 @@ namespace CatalogAPI.Models
         [Required]
         [StringLength(50)]
         public string? CatalogName { get; set; }
-
+	//user 2 updated
         //[JsonIgnore]       
        // public Collection<Product> ProductList { get; set; }
 
